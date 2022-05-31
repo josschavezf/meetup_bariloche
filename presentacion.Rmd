@@ -10,7 +10,7 @@ output:
     nature:
       ratio: '16:9'
 ---
-# ¿Qué es GitHub?
+# ¿Qué es Git?
 
 - Git es un software libre que funciona como un sistema de control de versiones.
 
