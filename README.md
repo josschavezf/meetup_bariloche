@@ -17,5 +17,5 @@ Joselyn es Doctora en Ciencias Bioquímicas y actualmente realiza una estancia P
 - Instalar git, puedes usar alguna de estas guías:
 - https://github.com/git-guides/install-git
 - https://gitforwindows.org/
-
+- Crear un usuario en github.com
 
